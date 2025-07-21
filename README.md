@@ -2,6 +2,9 @@
 
 <img width="644" height="647" alt="image" src="https://github.com/user-attachments/assets/dc10c062-bdc0-45fb-928b-66800a2f2bd5" />
 
+<img width="529" height="705" alt="image" src="https://github.com/user-attachments/assets/b4ea0f2e-920e-4e83-9c5a-eaf158608452" />
+
+
 
 🎯 מטרת הפרויקט: מונה לחיצות
 ללמוד איך לשלוט בדינמיקה של עמוד HTML באמצעות JavaScript – שינוי טקסט, תגובה לאירועים, לולאות, תנאים ועוד.
